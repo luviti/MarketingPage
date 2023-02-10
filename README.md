@@ -1,6 +1,6 @@
-# lading-page-vendas
+# MarketingPage
 
-<h1>Criei uma lading page de página de vendas</h1><h2>Demonstração:</h2>
+<h1>Uma lading page de página de vendas</h1><h2>Demonstração:</h2>
 
 ![image](https://user-images.githubusercontent.com/108637883/216449453-b09a988e-f0aa-49b4-a813-09db8b673ac5.png)
 ![image](https://user-images.githubusercontent.com/108637883/216449856-51fb26ad-7bf6-443f-86f9-80f45f0b2fac.png)
